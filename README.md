@@ -6,5 +6,9 @@ Consta de:
 - Nodejs, Expressjs y Mongodb para la parte Back.
 - Docker y docker-compose.js para la orquestación en local de los elementos anteriores.
 
+# Ejecución en local
+- Front: ```ng serve```
+- Back: ```node index.js```
+
 # Enlaces de interes
 https://pagosonline.redsys.es/conexion-insite.html
