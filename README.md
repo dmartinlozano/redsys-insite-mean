@@ -10,5 +10,14 @@ Consta de:
 - Front: ```ng serve```
 - Back: ```node index.js```
 
+# Cambios a modificar
+En front:
+ - index.html: cambiar url de redsys de pruebas por la de producción.
+
 # Enlaces de interes
 https://pagosonline.redsys.es/conexion-insite.html
+https://pagosonline.redsys.es/entornosPruebas.html
+
+## Errores conocidos
+- Error el iframe no aparece: https://www.enriquejros.com/redsys-integrado-woocommerce/
+
